@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: Shruti_01
-        image: nginx
+        image: shruti201/tomcat
         ports:
         - containerPort: 8080
